@@ -1,4 +1,4 @@
-<script>
+
     (function() {
         // 判断是否为移动设备
         var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
@@ -16,9 +16,9 @@
         }
         // 否则（PC端直接访问，无Referer）→ JS 不做任何动作
     })();
-</script>
 
-<script>
+
+
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
@@ -26,9 +26,9 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-</script>
 
-<script>
+
+
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
@@ -36,9 +36,9 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-</script>
 
-<script>
+
+
         (function(){
             var bp = document.createElement('script');
             var curProtocol = window.location.protocol.split(':')[0];
@@ -50,4 +50,4 @@ var _hmt = _hmt || [];
             var s = document.getElementsByTagName("script")[0];
             s.parentNode.insertBefore(bp, s);
         })();
-</script>
+
